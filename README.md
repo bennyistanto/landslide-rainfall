@@ -105,7 +105,7 @@ Export.table.toDrive({
 
 GEE [link](https://code.earthengine.google.com/b7ccc8291d23770301e96a22bd1be2c8)
 
-![GEE](./img/landslide_rainfall_gee.png)
+![GEE](./img/landslide_rainfall_gee_multi.png)
 
 ### Single point simulation
 
@@ -213,6 +213,8 @@ Export.table.toDrive({
 ```
 
 GEE [link](https://code.earthengine.google.com/47dede746d68d7d1a603d49540aa4805)
+
+![GEE](./img/landslide_rainfall_gee_single.png)
 
 ## Output
 
